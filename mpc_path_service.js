@@ -53,7 +53,7 @@ exports.handler = function (event, context, callback) {
         validSpaces.push(offBoardMap[file] + (rank+1));
       }
     }    
-    console.log(centers);
+    // console.log(centers);
 
     // Check that 'from' and 'to' parameters are valid
     if(validSpaces.indexOf(from) < 0) {
