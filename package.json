@@ -1,0 +1,21 @@
+{
+  "name": "mpc_pathservice",
+  "version": "1.0.0",
+  "description": "## Purpose Take a move in standard chess notation and translate that into actions to be fed into the [MovementService](https://github.com/ManInThePiCastle/MovementService)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManInThePiCastle/PathService.git"
+  },
+  "author": "Chris Bartlett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManInThePiCastle/PathService/issues"
+  },
+  "homepage": "https://github.com/ManInThePiCastle/PathService#readme",
+  "dependencies": {
+    "three": "^0.84.0"
+  }
+}
